@@ -42,8 +42,6 @@ A modern and responsive car rental website developed for a client. The website a
 
 ## 📸 Website Screenshots
 
-## 📸 Website Screenshots
-
 ### 🏠 Homepage
 
 ![Homepage](homepage.png)
