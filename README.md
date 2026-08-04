@@ -1,26 +1,25 @@
-# ZoomCars.in
+# 🚗 Rental Cars Website
 
-## Overview
+## 📖 Overview
 
-ZoomCars.in is a modern car rental website designed to help users browse vehicles, make bookings, and contact the business.
+A modern and responsive car rental website developed for a client. The website allows users to browse vehicles, view pricing, explore rental packages, and submit booking inquiries.
 
-> Note: The source code is private because it belongs to the client/company.
-
----
-
-## My Role
-
-- Designed and developed the frontend
-- Built the PHP backend
-- Designed the MySQL database
-- Implemented responsive UI
-- Optimized website performance
-- Applied on-page SEO best practices
-- Configured hosting and deployment
+> **Note:** This repository is a portfolio case study. The original source code is private because it belongs to the client.
 
 ---
 
-## Technologies Used
+## 👨‍💻 My Role
+
+- Designed and developed the website
+- Built responsive user interfaces
+- Implemented booking inquiry functionality
+- Optimized performance
+- Applied SEO best practices
+- Deployed the website
+
+---
+
+## 🛠 Technologies
 
 - PHP
 - MySQL
@@ -28,33 +27,20 @@ ZoomCars.in is a modern car rental website designed to help users browse vehicle
 - CSS3
 - JavaScript
 - Bootstrap
-- Git
-- GitHub
 
 ---
 
-## Features
+## ✨ Features
 
-- Car listing
-- Booking inquiry form
 - Responsive design
-- Contact page
-- SEO-friendly URLs
-- Fast loading pages
+- Car rental packages
+- Pricing section
+- Contact & inquiry form
+- SEO-friendly pages
 
 ---
 
-## Screenshots
-
-(Add homepage, vehicle listing, booking page, etc.)
-
----
-
-## Live Website
-
-https://zoomcars.in
-
----
+## 📸 Website Screenshots
 
 ## 📸 Website Screenshots
 
@@ -85,3 +71,9 @@ https://zoomcars.in
 ### 📝 Booking / Query Form
 
 ![Query Form](Query-form.png)
+
+---
+
+## 🌐 Live Website
+
+https://zoomcars.in
