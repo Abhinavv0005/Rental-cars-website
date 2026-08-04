@@ -56,19 +56,32 @@ https://zoomcars.in
 
 ---
 
-## Note
+## 📸 Website Screenshots
 
-The source code is not publicly available due to ownership and confidentiality.
-## Screenshots
+### 🏠 Homepage
 
-### Homepage
+![Homepage](homepage.png)
 
-![Homepage](screenshots/homepage.png)
+---
 
-### Booking Page
+### 📦 Packages Page
 
-![Booking](screenshots/booking-page.png)
+![Packages](packages.png)
 
-### Cars Listing
+---
 
-![Cars](screenshots/cars-list.png)
+### 💰 Pricing Page
+
+![Prices](prices.png)
+
+---
+
+### 🛠 Services Page
+
+![Services](services.png)
+
+---
+
+### 📝 Booking / Query Form
+
+![Query Form](Query-form.png)
